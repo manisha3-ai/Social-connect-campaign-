@@ -1,2 +1,2 @@
 # Social-connect-campaign-
-Digital marketing internship project for DevelopersHubHub
+Digital marketing internship project for DevelopersHub
